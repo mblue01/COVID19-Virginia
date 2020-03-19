@@ -1,21 +1,21 @@
-Health District,Location,3/16/2020,3/17/2020,3/18/2020
-Alexandria,Alexandria City,2,2,2
-Arlington,Arlington,9,13,14
-Central Shenandoah,Harrisonburg City,1,1,1
-Chesterfield,Chesterfield County,2,4,5
-Chickahominy,Charles City County,0,0,1
-Chickahominy,Goochland County,0,1,1
-Chickahominy,Hanover,1,1,1
-Fairfax,Fairfax,10,12,14
-Henrico,Henrico County,0,2,2
-Loudoun,Loudoun,5,5,5
-Peninsula,James City County,10,12,13
-Peninsula,Williamsburg City,0,1,1
-Peninsula,York County,1,1,1
-Piedmont,Prince Edward,1,1,1
-Prince William,Prince William,3,4,4
-Rappahannock,Sposylvania,1,1,1
-Rappahannock,Stafford,1,1,2
-Richmod,Richmond City,0,0,3
-Thomas Jefferson,Charlottesville City,0,1,1
-Virginia Beach,Virginia Beach City,5,4,4
+Health District,Location,3/16/2020,3/17/2020,3/18/2020,3/19/2020
+Alexandria,Alexandria City,2,2,2,4
+Arlington,Arlington County,9,13,14,17
+Chickahominy,Charles City County,0,0,1,1
+Thomas Jefferson,Charlottesville City,0,1,1,1
+Chesterfield,Chesterfield County,2,4,5,6
+Fairfax,Fairfax,10,12,14,16
+Chickahominy,Goochland County,0,1,1,1
+Chickahominy,Hanover,1,1,1,1
+Central Shenandoah,Harrisonburg City,1,1,1,1
+Henrico,Henrico County,0,2,2,3
+Peninsula,James City County,10,12,13,14
+Loudoun,Loudoun,5,5,5,5
+Piedmont,Prince Edward,1,1,1,1
+Prince William,Prince William,3,4,4,11
+Richmod,Richmond City,0,0,3,3
+Rappahannock,Sposylvania,1,1,1,1
+Rappahannock,Stafford,1,1,2,2
+Virginia Beach,Virginia Beach City,5,4,4,4
+Peninsula,Williamsburg City,0,1,1,1
+Peninsula,York County,1,1,1,1
