@@ -1,43 +1,134 @@
-Location,3/16/2020,3/17/2020,3/18/2020,3/19/2020,3/20/2020,3/21/2020,3/22/2020,3/23/2020,3/24/2020
-Accomack,0,0,0,0,1,1,1,1,1
-Albermarle,0,0,0,0,0,1,2,2,2
-Alexandria City,2,2,2,4,3,5,5,6,8
-Amherst,0,0,0,0,0,0,1,1,1
-Arlington County,9,13,14,17,17,22,26,30,36
-Bedford,0,0,0,0,0,0,1,1,1
-Botetourt,0,0,0,0,0,1,1,1,1
-Charles City County,0,0,1,1,1,1,1,1,1
-Charlottesville City,0,1,1,1,1,1,4,4,5
-Chesapeake,0,0,0,0,0,0,0,0,1
-Chesterfield County,2,4,5,6,5,7,8,8,10
-Culpeper,0,0,0,0,0,0,2,2,2
-Danville,0,0,0,0,0,0,0,0,1
-Fairfax,10,12,14,16,16,22,31,40,46
-Fluvanna,0,0,0,0,0,0,1,1,1
-Franklin County,0,0,0,0,0,1,1,1,1
-Gloucester,0,0,0,0,1,2,2,2,2
-Goochland County,0,1,1,1,1,1,2,2,3
-Halifax,0,0,0,0,0,0,0,0,1
-Hanover,1,1,1,1,1,1,1,1,1
-Harrisonburg City,1,1,1,1,1,1,1,1,1
-Henrico County,0,2,2,3,3,7,8,11,14
-Isle of Wright,0,0,0,0,0,1,1,2,2
-James City County,10,12,13,14,19,20,32,35,37
-Lee,0,0,0,0,0,0,2,2,2
-Loudoun,5,5,5,5,9,14,15,16,18
-Louisa,0,0,0,0,0,0,1,1,2
-Mecklenburg,0,0,0,0,0,1,1,2,2
-Newport News,0,0,0,0,1,2,2,2,3
-Norfolk,0,0,0,0,1,3,3,4,5
-Portsmouth,0,0,0,0,1,1,1,2,3
-Prince Edward,1,1,1,1,1,1,1,1,1
-Prince William,3,4,4,11,12,14,18,30,23
-Richmond City,0,0,3,3,5,6,6,7,11
-Rockbridge,0,0,0,0,0,0,0,0,1
-Rockingham,0,0,0,0,0,2,2,3,3
-Sposylvania,1,1,1,1,1,1,2,2,2
-Stafford,1,1,2,2,2,2,5,5,6
-Suffolk,0,0,0,0,0,1,1,1,1
-Virginia Beach City,5,4,4,4,4,4,17,17,17
-Williamsburg City,0,1,1,1,4,4,5,6,5
-York County,1,1,1,1,3,3,5,6,6
+﻿Location,Health District,3/16/2020,3/17/2020,3/18/2020,3/19/2020,3/20/2020,3/21/2020,3/22/2020,3/23/2020,3/24/2020,3/26/2020,3/27/2020,3/28/2020
+Alexandria,Alexandria,2,2,2,4,3,5,5,6,8,9,18,20
+Alleghany,Alleghany,,,,,,,,,,0,0,0
+Botetourt,Alleghany,0,0,0,0,0,1,1,1,1,1,1,1
+Covington,Alleghany,,,,,,,,,,0,0,0
+Craig,Alleghany,,,,,,,,,,0,0,0
+Roanoke County,Alleghany,,,,,,,,,,1,1,2
+Salem,Alleghany,,,,,,,,,,0,0,0
+Arlington,Arlington,9,13,14,17,17,22,26,30,36,0,63,75
+Augusta,Central Shenandoah,,,,,,,,,,0,0,0
+Bath,Central Shenandoah,,,,,,,,,,0,0,0
+Buena Vista City,Central Shenandoah,,,,,,,,,,0,0,0
+Harrisonburg,Central Shenandoah,1,1,1,1,1,1,1,1,1,2,5,5
+Highland,Central Shenandoah,,,,,,,,,,0,0,0
+Lexington,Central Shenandoah,,,,,,,,,,0,0,0
+Rockbridge,Central Shenandoah,0,0,0,0,0,0,0,0,1,1,1,2
+Rockingham,Central Shenandoah,0,0,0,0,0,2,2,3,3,2,4,4
+Staunton,Central Shenandoah,,,,,,,,,,0,0,0
+Waynesboro,Central Shenandoah,,,,,,,,,,0,0,0
+Amherst,Central Virginia,0,0,0,0,0,0,1,1,1,1,1,2
+Appomattox,Central Virginia,,,,,,,,,,0,0,0
+Bedford,Central Virginia,0,0,0,0,0,0,1,1,1,2,2,2
+Campbell,Central Virginia,,,,,,,,,,0,0,0
+Lynchburg,Central Virginia,,,,,,,,,,0,2,2
+Chesapeake,Chesapeake,0,0,0,0,0,0,0,0,1,3,5,7
+Chesterfield,Chesterfield,2,4,5,6,5,7,8,8,10,11,12,12
+Colonial Heights,Chesterfield,,,,,,,,,,0,0,0
+Powhatan,Chesterfield,,,,,,,,,,0,0,1
+Charles City,Chickahominy,0,0,1,1,1,1,1,1,1,1,1,1
+Goochland,Chickahominy,0,1,1,1,1,1,2,2,3,3,3,5
+Hanover,Chickahominy,1,1,1,1,1,1,1,1,1,2,2,3
+New Kent,Chickahominy,,,,,,,,,,0,0,1
+Dinwiddie,Crater,,,,,,,,,,0,0,0
+Emporia,Crater,,,,,,,,,,0,0,0
+Greensville,Crater,,,,,,,,,,0,0,0
+Hopewell,Crater,,,,,,,,,,0,0,1
+Petersburg,Crater,,,,,,,,,,0,0,0
+Prince George,Crater,,,,,,,,,,0,2,2
+Surry,Crater,,,,,,,,,,0,0,0
+Sussex,Crater,,,,,,,,,,0,0,0
+Buchanan,Cumberland Plateau,,,,,,,,,,0,0,0
+Dickenson,Cumberland Plateau,,,,,,,,,,0,0,0
+Russell,Cumberland Plateau,,,,,,,,,,0,0,0
+Tazewell,Cumberland Plateau,,,,,,,,,,0,0,0
+Accomack,Eastern Shore,0,0,0,0,1,1,1,1,1,1,2,2
+Northampton,Eastern Shore,,,,,,,,,,0,1,1
+Fairfax,Fairfax,10,12,14,16,16,22,31,40,46,76,124,156
+Fairfax City,Fairfax,,,,,,,,,,1,0,0
+Falls Church,Fairfax,,,,,,,,,,0,0,0
+Hampton,Hampton,,,,,,,,,,0,5,7
+Henrico,Henrico,0,2,2,3,3,7,8,11,14,20,28,31
+Lee,Lenowisco,0,0,0,0,0,0,2,2,2,2,2,2
+Norton,Lenowisco,,,,,,,,,,0,0,0
+Scott,Lenowisco,,,,,,,,,,0,0,0
+Wise,Lenowisco,,,,,,,,,,0,0,0
+Clarke,Lord Fairfax,,,,,,,,,,0,0,0
+Frederick,Lord Fairfax,,,,,,,,,,2,4,4
+Page,Lord Fairfax,,,,,,,,,,0,0,0
+Shenandoah,Lord Fairfax,,,,,,,,,,3,3,3
+Warren,Lord Fairfax,,,,,,,,,,0,2,2
+Winchester,Lord Fairfax,,,,,,,,,,0,0,0
+Loudoun,Loudoun,5,5,5,5,9,14,15,16,18,20,43,54
+Bland,Mount Rogers,,,,,,,,,,0,0,0
+Bristol,Mount Rogers,,,,,,,,,,0,1,1
+Carroll,Mount Rogers,,,,,,,,,,0,0,0
+Galax,Mount Rogers,,,,,,,,,,0,1,1
+Grayson,Mount Rogers,,,,,,,,,,0,0,0
+Smyth,Mount Rogers,,,,,,,,,,0,0,0
+Washington,Mount Rogers,,,,,,,,,,0,1,1
+Wythe,Mount Rogers,,,,,,,,,,0,0,0
+Floyd,New River,,,,,,,,,,0,0,0
+Giles,New River,,,,,,,,,,0,0,0
+Montgomery,New River,,,,,,,,,,0,0,1
+Pulaski,New River,,,,,,,,,,0,0,0
+Radford,New River,,,,,,,,,,0,1,1
+Norfolk,Norfolk,0,0,0,0,1,3,3,4,5,5,8,10
+James City,Peninsula,10,12,13,14,19,20,32,35,37,41,55,65
+Newport News,Peninsula,0,0,0,0,1,2,2,2,3,4,12,13
+Poquoson,Peninsula,,,,,,,,,,0,1,2
+Williamsburg,Peninsula,0,1,1,1,4,4,5,6,5,5,5,6
+York,Peninsula,1,1,1,1,3,3,5,6,6,8,9,9
+Amelia,Piedmont,,,,,,,,,,0,1,1
+Buckingham,Piedmont,,,,,,,,,,0,0,0
+Charlotte,Piedmont,,,,,,,,,,0,0,0
+Cumberland,Piedmont,,,,,,,,,,0,0,0
+Lunenburg,Piedmont,,,,,,,,,,0,0,0
+Nottoway,Piedmont,,,,,,,,,,1,1,1
+Prince Edward,Piedmont,1,1,1,1,1,1,1,1,1,2,2,2
+Danville,Pittsylvania-Danville,0,0,0,0,0,0,0,0,1,2,4,4
+Pittsylvania,Pittsylvania-Danville,,,,,,,,,,0,1,1
+Portsmouth,Portsmouth,0,0,0,0,1,1,1,2,3,3,3,4
+Manassas City,Prince William,,,,,,,,,,2,3,4
+Manassas Park,Prince William,,,,,,,,,,0,0,0
+Prince William,Prince William,3,4,4,11,12,14,18,30,23,32,44,56
+Caroline,Rappahannock,,,,,,,,,,0,0,0
+Fredericksburg,Rappahannock,,,,,,,,,,1,1,1
+King George,Rappahannock,,,,,,,,,,0,1,2
+Spotsylvania,Rappahannock,1,1,1,1,1,1,2,2,2,3,2,3
+Stafford,Rappahannock,1,1,2,2,2,2,5,5,6,6,11,11
+Culpeper,Rappahannock Rapidan,0,0,0,0,0,0,2,2,2,2,2,2
+Fauquier,Rappahannock Rapidan,,,,,,,,,,0,4,6
+Madison,Rappahannock Rapidan,,,,,,,,,,1,2,3
+Orange,Rappahannock Rapidan,,,,,,,,,,1,1,1
+Rappahannock,Rappahannock Rapidan,,,,,,,,,,0,0,0
+Richmond City,Richmond,0,0,3,3,5,6,6,7,11,13,17,20
+Roanoke City,Roanoke,,,,,,,,,,0,1,0
+Brunswick,Southside,,,,,,,,,,0,0,0
+Halifax,Southside,0,0,0,0,0,0,0,0,1,1,1,1
+Mecklenburg,Southside,0,0,0,0,0,1,1,2,2,3,4,4
+Albemarle,Thomas Jefferson,0,0,0,0,0,1,2,2,2,4,8,16
+Charlottesville,Thomas Jefferson,0,1,1,1,1,1,4,4,5,6,11,12
+Fluvanna,Thomas Jefferson,0,0,0,0,0,0,1,1,1,1,3,3
+Greene,Thomas Jefferson,,,,,,,,,,0,1,1
+Louisa,Thomas Jefferson,0,0,0,0,0,0,1,1,2,3,5,6
+Nelson,Thomas Jefferson,,,,,,,,,,1,1,2
+Essex,Three Rivers,,,,,,,,,,0,0,0
+Gloucester,Three Rivers,0,0,0,0,1,2,2,2,2,2,3,6
+King and Queen,Three Rivers,,,,,,,,,,0,0,0
+King William,Three Rivers,,,,,,,,,,0,0,0
+Lancaster,Three Rivers,,,,,,,,,,0,0,1
+Mathews,Three Rivers,,,,,,,,,,1,1,2
+Middlesex,Three Rivers,,,,,,,,,,0,0,0
+Northumberland,Three Rivers,,,,,,,,,,0,0,2
+Richmond County,Three Rivers,,,,,,,,,,0,0,0
+Westmoreland,Three Rivers,,,,,,,,,,0,0,0
+Virginia Beach,Virginia Beach,5,4,4,4,4,4,17,17,17,23,29,35
+Franklin County,West Piedmont,,,,,,,,,,1,1,1
+Henry,West Piedmont,,,,,,,,,,0,0,0
+Martinsville,West Piedmont,,,,,,,,,,0,0,0
+Patrick,West Piedmont,,,,,,,,,,0,0,0
+Franklin City,Western Tidewater,0,0,0,0,0,1,1,1,1,0,0,0
+Isle of Wight,Western Tidewater,0,0,0,0,0,1,1,2,2,2,2,3
+Southampton,Western Tidewater,,,,,,,,,,0,1,1
+Suffolk,Western Tidewater,0,0,0,0,0,1,1,1,1,1,1,1
